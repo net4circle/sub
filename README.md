@@ -6,7 +6,7 @@
 
   ### v2rayNG
 
-    https://github.com/2dust/v2rayNG/releases/tag/1.8.5
+    https://github.com/2dust/v2rayNG/releases/tag/1.8.14
 
 ## IOS:
 
@@ -18,4 +18,4 @@
 
   ### v2rayN
 
-    https://github.com/2dust/v2rayN/releases/tag/6.23
+    https://github.com/2dust/v2rayN/releases/tag/6.33
