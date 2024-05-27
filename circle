@@ -1,14 +1,14 @@
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.181.13:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#Folks.1
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.46.17:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#Folks.2
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.24.48.230:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#Folks.3
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.172.43:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#Folks.4
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.17.250.109:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#Folks.5
+vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.181.13:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.1
+vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.46.17:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.2
+vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.24.48.230:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.3
+vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.172.43:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.4
+vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.17.250.109:2053?encryption=none&security=tls&sni=circle.expalisin.lol&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.5
 
-vless://77301678-a133-43e4-a2e6-3701b9a44c60@circle.expalisin.lol:8080?encryption=none&security=none&type=tcp&headerType=none#Folks.100
-vless://77301678-a133-43e4-a2e6-3701b9a44c60@[2600:3c07::f03c:94ff:fe74:fe52]:8080?encryption=none&security=none&type=tcp&headerType=none#Folks.101
+vless://77301678-a133-43e4-a2e6-3701b9a44c60@circle.expalisin.lol:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A2%20Folks.100
+vless://b56ac732-41d4-4eae-a1c0-3a7f7646281a@circle.expalisin.lol:448?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A2%20Folks.101
 
-vless://b56ac732-41d4-4eae-a1c0-3a7f7646281a@circle.expalisin.lol:448?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#Folks.1000
-vless://b56ac732-41d4-4eae-a1c0-3a7f7646281a@[2600:3c07::f03c:94ff:fe74:fe52]:448?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#Folks.1001
+vless://77301678-a133-43e4-a2e6-3701b9a44c60@[2600:3c07::f03c:94ff:fe74:fe52]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%B4%20Folks.1000
+vless://b56ac732-41d4-4eae-a1c0-3a7f7646281a@[2600:3c07::f03c:94ff:fe74:fe52]:448?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%B4%20Folks.1001
 
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfn6YgQ2lyY2xlLjEiLA0KICAiYWRkIjogIjEwNC4yMC4xMjQuMTM1IiwNCiAgInBvcnQiOiAiMjA1MyIsDQogICJpZCI6ICJiNTJkYTRkZC03MWIxLTQ3YTYtZjFjZC0yZTRjN2Y0MDlkOWIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogImdycGMiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImNpcmNsZTIuZHJhYWdvbi5pciIsDQogICJhbHBuIjogIiINCn0=
