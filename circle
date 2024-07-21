@@ -1,11 +1,10 @@
-vless://466ebd30-0026-4702-91b6-8eefbc2987ac@www.speedtest.net:2083?encryption=none&security=tls&sni=circle2.draagon.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.1
+vless://466ebd30-0026-4702-91b6-8eefbc2987ac@104.20.124.135:2083?encryption=none&security=tls&sni=circle2.draagon.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.1
 vless://466ebd30-0026-4702-91b6-8eefbc2987ac@104.18.181.13:2083?encryption=none&security=tls&sni=circle2.draagon.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.2
 vless://466ebd30-0026-4702-91b6-8eefbc2987ac@104.24.41.11:2083?encryption=none&security=tls&sni=circle2.draagon.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.3
 vless://466ebd30-0026-4702-91b6-8eefbc2987ac@104.20.29.10:2083?encryption=none&security=tls&sni=circle2.draagon.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.4
 vless://466ebd30-0026-4702-91b6-8eefbc2987ac@104.18.57.44:2083?encryption=none&security=tls&sni=circle2.draagon.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.5
 vless://466ebd30-0026-4702-91b6-8eefbc2987ac@104.20.202.37:2083?encryption=none&security=tls&sni=circle2.draagon.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.6
 vless://466ebd30-0026-4702-91b6-8eefbc2987ac@104.27.5.108:2083?encryption=none&security=tls&sni=circle2.draagon.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.7
-vless://466ebd30-0026-4702-91b6-8eefbc2987ac@104.20.124.135:2083?encryption=none&security=tls&sni=circle2.draagon.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.8
 
 vless://57b2eee3-b05d-4ced-bbf3-497f9f2d763b@circle2.draagon.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A9%20Circle.101
 vless://1e9f3bb8-ff14-467c-9a2e-d580d25002e9@circle2.draagon.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A9%20Circle.102
@@ -22,9 +21,10 @@ vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.24.48.230:2053?encryption=none&
 vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.172.43:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.4
 vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.17.250.109:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.5
 
-vless://10b0b2e8-f553-4f84-b4d8-987be7f57e50@folks.vistaashop.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A2%20Folks.100
-vless://422ee74e-0157-4dd0-88c9-67e6050881b8@folks.vistaashop.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A2%20Folks.101
+vless://10b0b2e8-f553-4f84-b4d8-987be7f57e50@folks.vistaashop.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A2%20Folks.101
+vless://422ee74e-0157-4dd0-88c9-67e6050881b8@folks.vistaashop.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A2%20Folks.102
 
-vless://10b0b2e8-f553-4f84-b4d8-987be7f57e50@[2600:3c0e::f03c:94ff:fe9f:d25b]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%B4%20Folks.1000
-vless://422ee74e-0157-4dd0-88c9-67e6050881b8@[2600:3c0e::f03c:94ff:fe9f:d25b]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%B4%20Folks.1001
+vless://10b0b2e8-f553-4f84-b4d8-987be7f57e50@[2600:3c0e::f03c:94ff:fe9f:d25b]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%B4%20Folks.1001
+vless://422ee74e-0157-4dd0-88c9-67e6050881b8@[2600:3c0e::f03c:94ff:fe9f:d25b]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%B4%20Folks.1002
+
 
