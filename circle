@@ -15,6 +15,7 @@ vless://1e9f3bb8-ff14-467c-9a2e-d580d25002e9@[2a01:4f9:c012:eca8::1]:80?encrypti
 
 
 
+
 vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.181.13:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.1
 vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.46.17:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.2
 vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.24.48.230:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.3
