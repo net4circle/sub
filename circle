@@ -9,9 +9,8 @@ vless://d540966f-954e-4d57-b290-0ce4b6fbd6ab@104.27.5.108:2083?encryption=none&s
 vless://5de2981c-860a-4ac7-a09a-20dc71183c09@circle.nikeforyou.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A9%20Circle.101
 vless://0ad5d810-46a7-4a7e-afa0-2d3c493f553e@circle.nikeforyou.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A9%20Circle.102
 
-vless://5de2981c-860a-4ac7-a09a-20dc71183c09@[2a01:4f9:c010:e9f0::1]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A9%20Circle.1001
+vless://5de2981c-860a-4ac7-a09a-20dc71183c09@[2a01:4f9:c010:e9f0::1]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A5%20Circle.1001
 vless://0ad5d810-46a7-4a7e-afa0-2d3c493f553e@[2a01:4f9:c010:e9f0::1]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A5%20Circle.1002
-
 
 
 
