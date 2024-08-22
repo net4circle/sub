@@ -12,18 +12,3 @@ vless://0ad5d810-46a7-4a7e-afa0-2d3c493f553e@circle.nikeforyou.ir:80?encryption=
 vless://5de2981c-860a-4ac7-a09a-20dc71183c09@[2a01:4f9:c010:e9f0::1]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A5%20Circle.1001
 vless://0ad5d810-46a7-4a7e-afa0-2d3c493f553e@[2a01:4f9:c010:e9f0::1]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A5%20Circle.1002
 
-
-
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.181.13:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.1
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.46.17:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.2
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.24.48.230:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.3
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.18.172.43:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.4
-vless://9d029fe9-4bd7-4e67-9ec7-a55fd0bf1ec6@104.17.250.109:2053?encryption=none&security=tls&sni=folks.vistaashop.ir&alpn=h2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.5
-
-vless://10b0b2e8-f553-4f84-b4d8-987be7f57e50@folks.vistaashop.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A2%20Folks.101
-vless://422ee74e-0157-4dd0-88c9-67e6050881b8@folks.vistaashop.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A2%20Folks.102
-
-vless://10b0b2e8-f553-4f84-b4d8-987be7f57e50@[2600:3c0e::f03c:94ff:fe9f:d25b]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%B4%20Folks.1001
-vless://422ee74e-0157-4dd0-88c9-67e6050881b8@[2600:3c0e::f03c:94ff:fe9f:d25b]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%B4%20Folks.1002
-
-
