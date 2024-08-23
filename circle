@@ -25,6 +25,6 @@ vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.27.5.108:2053?encryption=none&s
 vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@folks.n33d4speed.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A9%20Folks.101
 vless://702a278c-c648-424f-92a3-e35bee092f1f@folks.n33d4speed.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A9%20Folks.102
 
-vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@[2a01:7e02::f03c:95ff:fea9:c499]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A9%20Folks.1001
+vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@[2a01:7e02::f03c:95ff:fea9:c499]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A5%20Folks.1001
 vless://702a278c-c648-424f-92a3-e35bee092f1f@[2a01:7e02::f03c:95ff:fea9:c499]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A5%20Folks.1002
 
