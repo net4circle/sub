@@ -6,8 +6,8 @@ vless://d540966f-954e-4d57-b290-0ce4b6fbd6ab@104.18.57.44:2083?encryption=none&s
 vless://d540966f-954e-4d57-b290-0ce4b6fbd6ab@104.20.202.37:2083?encryption=none&security=tls&sni=circle.nikeforyou.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.6
 vless://d540966f-954e-4d57-b290-0ce4b6fbd6ab@104.27.5.108:2083?encryption=none&security=tls&sni=circle.nikeforyou.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Circle.7
 
-vless://5de2981c-860a-4ac7-a09a-20dc71183c09@circle.nikeforyou.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A9%20Circle.101
-vless://0ad5d810-46a7-4a7e-afa0-2d3c493f553e@circle.nikeforyou.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A9%20Circle.102
+vless://5de2981c-860a-4ac7-a09a-20dc71183c09@circle2.nikeforyou.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A9%20Circle.101
+vless://0ad5d810-46a7-4a7e-afa0-2d3c493f553e@circle2.nikeforyou.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A9%20Circle.102
 
 vless://5de2981c-860a-4ac7-a09a-20dc71183c09@[2a01:4f9:c010:e9f0::1]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A5%20Circle.1001
 vless://0ad5d810-46a7-4a7e-afa0-2d3c493f553e@[2a01:4f9:c010:e9f0::1]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A5%20Circle.1002
@@ -23,8 +23,8 @@ vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.18.57.44:2053?encryption=none&s
 vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.20.202.37:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.6
 vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.27.5.108:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.7
 
-vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@folks.n33d4speed.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A2%20Folks.101
-vless://702a278c-c648-424f-92a3-e35bee092f1f@folks.n33d4speed.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A2%20Folks.102
+vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@folks2.n33d4speed.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A2%20Folks.101
+vless://702a278c-c648-424f-92a3-e35bee092f1f@folks2.n33d4speed.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A2%20Folks.102
 
 vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@[2a01:7e02::f03c:95ff:fea9:c499]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%B4%20Folks.1001
 vless://702a278c-c648-424f-92a3-e35bee092f1f@[2a01:7e02::f03c:95ff:fea9:c499]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%B4%20Folks.1002
