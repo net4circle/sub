@@ -15,17 +15,16 @@ vless://0ad5d810-46a7-4a7e-afa0-2d3c493f553e@[2a01:4f9:c010:e9f0::1]:80?encrypti
 
 
 
-vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.20.124.135:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.1
-vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.18.181.13:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.2
-vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.24.41.11:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.3
-vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.20.29.10:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.4
-vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.18.57.44:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.5
-vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.20.202.37:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.6
-vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.27.5.108:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.7
+vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.20.124.135:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.1
+vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.18.181.13:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.2
+vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.24.41.11:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.3
+vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.20.29.10:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.4
+vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.18.57.44:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.5
+vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.20.202.37:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.6
+vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.27.5.108:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%94%B5%20Folks.7
 
-vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@folks.n33d4speed.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A9%20Folks.101
-vless://702a278c-c648-424f-92a3-e35bee092f1f@folks.n33d4speed.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A9%20Folks.102
+vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@folks.n33d4speed.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A2%20Folks.101
+vless://702a278c-c648-424f-92a3-e35bee092f1f@folks.n33d4speed.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A2%20Folks.102
 
-vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@[2a01:7e02::f03c:95ff:fea9:c499]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%9F%A5%20Folks.1001
-vless://702a278c-c648-424f-92a3-e35bee092f1f@[2a01:7e02::f03c:95ff:fea9:c499]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%9F%A5%20Folks.1002
-
+vless://83213a06-9999-4f90-8dc3-77e40bc7c8d0@[2a01:7e02::f03c:95ff:fea9:c499]:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%B4%20Folks.1001
+vless://702a278c-c648-424f-92a3-e35bee092f1f@[2a01:7e02::f03c:95ff:fea9:c499]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%94%B4%20Folks.1002
