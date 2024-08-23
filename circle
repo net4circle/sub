@@ -14,6 +14,7 @@ vless://0ad5d810-46a7-4a7e-afa0-2d3c493f553e@[2a01:4f9:c010:e9f0::1]:80?encrypti
 
 
 
+
 vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.20.124.135:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.1
 vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.18.181.13:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.2
 vless://94fdc60c-0fc1-42de-ba56-3c678a23e692@104.24.41.11:2053?encryption=none&security=tls&sni=folks.n33d4speed.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#%F0%9F%9F%A6%20Folks.3
